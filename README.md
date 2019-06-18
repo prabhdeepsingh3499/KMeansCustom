@@ -1,2 +1,2 @@
 # KMeansCustom
-Implementing KMeans Algorithm, a Technique in Machine Learning used for clustering
+Implementation of KMeans Algorithm, a Technique in Machine Learning used for clustering
